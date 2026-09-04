@@ -2,7 +2,8 @@
 
 A single-file anime watch tracker that lives entirely in your browser. No account, no server, no build step: open the HTML file and it works. Your list is saved to `localStorage`, so it never leaves your machine.
 
-![AnimeTrack demo](demo.gif)
+<img width="800" height="554" alt="demo" src="https://github.com/user-attachments/assets/0291f4af-bf11-4f3c-860a-ae0619ee930a" />
+
 
 ## Features
 
